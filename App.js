@@ -149,9 +149,9 @@ const styles = StyleSheet.create({
     color: 'white',
   },
   largeText: {
-    fontSize: 44,
+    fontSize: 42,
   },
   smallText: {
-    fontSize: 18,
+    fontSize: 16,
   },
 });
